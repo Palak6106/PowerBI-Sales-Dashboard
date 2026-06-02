@@ -2,39 +2,54 @@ Power BI Sales Dashboard
 
 Project Overview
 
-This project demonstrates the use of Microsoft Power BI to transform raw business data into interactive dashboards and actionable insights. The dashboards help analyze sales performance, identify trends, monitor key performance indicators (KPIs), and support data-driven decision making.
+This project demonstrates the use of Microsoft Power BI to transform raw business data into interactive dashboards and actionable insights. The dashboards provide sales analysis, profitability trends, product performance evaluation, and geographical business insights.
+
+Dashboard Preview
+
+Global Profit Analysis
+
+![Dashboard Overview](Screenshots/Dashboard_overview.png)
+
+Product Trend Analysis
+
+![Trend Analysis](Screenshots/Trend_analysis.png)
+
+Sales and Profitability Analysis
+
+![Sales Performance](Screenshots/Sales_performance.png)
 
 Tools Used
 
 * Microsoft Power BI
 * Power Query
-* Data Modeling
 * DAX (Data Analysis Expressions)
-* Interactive Visualizations
+* Data Modeling
+* Interactive Dashboards
 
 Project Files
 
 Sales analysis.pbix
 
 * Sales performance dashboard
-* Revenue and profit analysis
-* Trend identification and KPI tracking
-* Interactive filtering and drill-down analysis
+* Revenue and profitability analysis
+* Product performance insights
+* Geographic sales analysis
 
 Analysis.pbix
 
-* Business data analysis dashboard
-* Data exploration and visualization
-* Performance reporting and insights generation
+* Business data exploration
+* Trend analysis
+* Interactive visualizations
+* KPI reporting
 
 Dashboard Features
 
 * Interactive Filters and Slicers
-* KPI Monitoring
-* Revenue Analysis
 * Sales Trend Analysis
-* Category-wise Performance Analysis
-* Business Performance Reporting
+* Gross Profit Analysis
+* Product Performance Evaluation
+* Geographic Business Insights
+* KPI Monitoring
 * Dynamic Visualizations
 
 Skills Demonstrated
@@ -42,15 +57,15 @@ Skills Demonstrated
 * Data Cleaning
 * Data Transformation
 * Data Modeling
+* Data Visualization
 * Dashboard Development
 * Business Intelligence
-* Data Visualization
-* Analytical Thinking
 * KPI Reporting
+* Analytical Thinking
 
 Business Value
 
-The dashboards provide a clear view of business performance by converting raw data into meaningful visual insights. They enable users to identify trends, evaluate performance, and make informed decisions efficiently.
+The dashboards help convert raw business data into meaningful insights, enabling better decision-making through visual analytics, performance tracking, and trend identification.
 
 Author
 
