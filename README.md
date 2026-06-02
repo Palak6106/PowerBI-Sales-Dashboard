@@ -4,19 +4,11 @@ Project Overview
 
 This project demonstrates the use of Microsoft Power BI to transform raw business data into interactive dashboards and actionable insights. The dashboards provide sales analysis, profitability trends, product performance evaluation, and geographical business insights.
 
-Dashboard Preview
+<img src="Screenshots/Dashboard_overview.png" width="1000">
 
-Global Profit Analysis
+<img src="Screenshots/Trend_analysis.png" width="1000">
 
-![Dashboard Overview](Screenshots/Dashboard_overview.png)
-
-Product Trend Analysis
-
-![Trend Analysis](Screenshots/Trend_analysis.png)
-
-Sales and Profitability Analysis
-
-![Sales Performance](Screenshots/Sales_performance.png)
+<img src="Screenshots/Sales_performance.png" width="1000">
 
 Tools Used
 
